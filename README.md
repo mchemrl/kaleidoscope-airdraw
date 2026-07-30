@@ -3,6 +3,10 @@
 a small fun project I did using opencv and mediapipe (newer version) for a webcam-based drawing app that turns hand gestures into a kaleidoscope. 
 point your index finger to draw, then the stroke gets mirrored and tiled around in real time,
 with fading trails and color gradients. 
+<div align="center">
+  <img src="assets/readme_img.png" height="350">
+
+</div>
 
 ## repo structure
 
